@@ -1,5 +1,6 @@
 # covid19-game
 A short game on covid-19.
+Devpost: https://devpost.com/software/grocery-run-covid-19-edition
 
 **How to run**
 ---
